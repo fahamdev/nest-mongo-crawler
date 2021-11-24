@@ -35,3 +35,6 @@ lerna-debug.log*
 
 # end files
 .env
+
+# Documentation
+/documentation
